@@ -12,6 +12,8 @@ google.cn^
 github.com^
 githubusercontent.com^
 cloudflare.com^
+cloudflareinsights.com^
+cloudflareinsights.com^
 
 ! ================= 搜狐 =================
 api.tv.sohu.com^
@@ -254,4 +256,5 @@ zazhipu.com^
 fp.tongdun.net^
 
 fraudmetrix.cn^
+
 
