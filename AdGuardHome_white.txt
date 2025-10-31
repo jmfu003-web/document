@@ -11,6 +11,7 @@ google.com.hk^
 google.cn^
 github.com^
 githubusercontent.com^
+cloudflare.com^
 
 ! ================= 搜狐 =================
 api.tv.sohu.com^
@@ -253,3 +254,4 @@ zazhipu.com^
 fp.tongdun.net^
 
 fraudmetrix.cn^
+
