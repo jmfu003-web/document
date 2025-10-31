@@ -8,6 +8,9 @@ www.google.com^
 www.google.com.hk^
 google.com^
 google.com.hk^
+google.cn^
+github.com^
+githubusercontent.com^
 
 ! ================= 搜狐 =================
 api.tv.sohu.com^
@@ -248,4 +251,5 @@ xifuquan.com^
 zazhipu.com^
 ! ================= 同盾 =================
 fp.tongdun.net^
+
 fraudmetrix.cn^
