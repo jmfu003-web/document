@@ -6,9 +6,6 @@
 ! ---------google---------------
 www.google.com^
 www.google.com.hk^
-google.com^
-google.com.hk^
-google.cn^
 github.com^
 githubusercontent.com^
 cloudflare.com^
@@ -256,6 +253,7 @@ zazhipu.com^
 fp.tongdun.net^
 
 fraudmetrix.cn^
+
 
 
 
